@@ -30,12 +30,12 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/questionTextView" />
 
-    <!-- Текстовий компонент для породи -->
+    <!-- Текстовий компонент для випічки -->
     <TextView
         android:id="@+id/breedTextView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Порода: Бульдог"
+        android:text="Випічка: Тістечко"
         android:textSize="24sp"
         app:layout_constraintBottom_toTopOf="@+id/yesButton"
         app:layout_constraintEnd_toEndOf="parent"
